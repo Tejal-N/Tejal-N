@@ -65,10 +65,14 @@ I am passionate about creating **modern, responsive, and user-friendly web exper
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tejal-N&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
 
+---
+
 <h2 align="center">🐍 GitHub Contribution Snake</h2>
 <div align="center">
 <img src="https://raw.githubusercontent.com/Tejal-N/Tejal-N/output/github-contribution-grid-snake.svg" />
 </div>
+
+---
 
 <h2 align="center">📈 GitHub Contribution Graph</h2>
 
@@ -98,7 +102,7 @@ I am passionate about creating **modern, responsive, and user-friendly web exper
 
 </div>
 
-<br/>
+---
 
 <br/>
 
@@ -108,7 +112,6 @@ I am passionate about creating **modern, responsive, and user-friendly web exper
 
 </div>
 
-<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:2DD4BF&height=120&section=footer"/>
