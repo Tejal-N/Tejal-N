@@ -6,11 +6,9 @@
 
 <h1>Hi, I'm Tejal 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Frontend+Developer;Building+Modern+Web+Experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=UI%2FUX+Design;Frontend+Development;Information+Science+Student;Building+Modern+Web+Experiences" />
 
 </div>
-
-🎓 Information Science Student | 🎨 UI/UX  | 💻 Frontend 
 
 I am passionate about creating **modern, responsive, and user-friendly web experiences**. I enjoy combining development and design to build impactful digital products using React.js, Next.js, and modern UI/UX practices.
 
