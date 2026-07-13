@@ -4,7 +4,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&height=90&lines=Hi%2C+I'm+Tejal+👋;🎨+UI%2FUX+Designer;💻+Frontend+Developer;🚀+Building+Modern+Web+Experiences" alt="Typing SVG" />
+<h1>Hi, I'm Tejal 👋</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Frontend+Developer;Building+Modern+Web+Experiences" />
 
 </div>
 
