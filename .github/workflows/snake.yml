@@ -16,9 +16,9 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: Tejal-N
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=5EEAD4&color_dots=ECFEFF,CFFAFE,A5F3FC,67E8F9,22D3EE
-
+outputs: |
+  dist/github-contribution-grid-snake.svg?color_snake=5EEAD4&color_dots=FFFFFF,E0F7FA,A5F3FC,67E8F9,22D3EE
+  
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
