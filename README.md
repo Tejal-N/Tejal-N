@@ -55,6 +55,18 @@ I am passionate about creating **modern, responsive, and user-friendly web exper
 <div align="center">
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tejal-N&show_icons=true&theme=tokyonight&hide_border=true" />
+</div>
+
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tejal-N/Tejal-N/output/github-contribution-grid-snake.svg" />
+</div>
+
+<h2 align="center">📈 GitHub Contribution Graph</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejal-N&theme=tokyo-night&hide_border=true" />
 
 </div>
 
