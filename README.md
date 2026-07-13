@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00C6FF&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9C0,100:00F5D4&height=120&section=header"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:007CF0,100:00C6FF&height=120&section=header"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:2DD4BF&height=120&section=header"/>
+</div>
 
 <div align="center">
 
