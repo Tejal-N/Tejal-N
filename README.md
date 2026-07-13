@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00C6FF&height=120&section=header"/>
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:007CF0,100:00C6FF&height=120&section=header"/>
+
 <div align="center">
 
 <h1>Hi, I'm Tejal 👋</h1>
