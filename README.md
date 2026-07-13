@@ -90,4 +90,6 @@ I am passionate about creating **modern, responsive, and user-friendly web exper
 
 </div>
 
+<div align="center">
 ⭐ *Designing. Coding. Learning. Building.*
+</div>
