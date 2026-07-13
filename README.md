@@ -1,4 +1,10 @@
-# Hi, I'm Tejal 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00C6FF&height=120&section=header"/>
+</div>
+
+<h1 align="center">
+  Hi, I'm Tejal 👋
+</h1>
 
 🎓 Information Science Student | 🎨 UI/UX  | 💻 Frontend 
 
@@ -92,8 +98,16 @@ I am passionate about creating **modern, responsive, and user-friendly web exper
 
 <br/>
 
+<br/>
+
 <div align="center">
 
 ⭐ Thoughtful Interfaces. Seamless Experiences. Clean Code.
 
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00C6FF&height=120&section=footer"/>
 </div>
