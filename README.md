@@ -2,9 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00C6FF&height=120&section=header"/>
 </div>
 
-<h1 align="center">
-  Hi, I'm Tejal 👋
-</h1>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&height=90&lines=Hi%2C+I'm+Tejal+👋;🎨+UI%2FUX+Designer;💻+Frontend+Developer;🚀+Building+Modern+Web+Experiences" alt="Typing SVG" />
+
+</div>
 
 🎓 Information Science Student | 🎨 UI/UX  | 💻 Frontend 
 
