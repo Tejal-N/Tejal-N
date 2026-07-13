@@ -52,26 +52,30 @@ I am passionate about creating **modern, responsive, and user-friendly web exper
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejal-N&show_icons=true&theme=tokyonight"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tejal-N&show_icons=true&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+<h2 align="center">📫 Connect With Me</h2>
 
-<p>
+<div align="center">
+
 <a href="https://github.com/Tejal-N">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/s-tejal-naresh">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:stejalnaresh@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
+
+</div>
 
 ⭐ *Designing. Coding. Learning. Building.*
