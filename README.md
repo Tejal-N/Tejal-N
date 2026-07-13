@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<h1>Hi, I'm Tejal 👋</h1>
+<h1>Hi, I'm Tejal</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=UI%2FUX+Design;Frontend+Development;Information+Science+Student;Building+Modern+Web+Experiences" />
 
@@ -62,14 +62,18 @@ I am passionate about creating **modern, responsive, and user-friendly web exper
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tejal-N&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tejal-N&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=FFFFFF&icon_color=06B6D4" />
+
 </div>
 
 ---
 
 <h2 align="center">🐍 GitHub Contribution Snake</h2>
+
 <div align="center">
+
 <img src="https://raw.githubusercontent.com/Tejal-N/Tejal-N/output/github-contribution-grid-snake.svg" />
+
 </div>
 
 ---
@@ -78,7 +82,7 @@ I am passionate about creating **modern, responsive, and user-friendly web exper
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejal-N&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejal-N&bg_color=0D1117&color=2DD4BF&line=06B6D4&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
