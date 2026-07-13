@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9C0,100:00F5D4&height=120&section=header"/>
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:2DD4BF&height=120&section=header"/>
 </div>
 
@@ -10,7 +6,7 @@
 
 <h1>Hi, I'm Tejal 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=UI%2FUX+Design;Frontend+Development;Information+Science+Student;Building+Modern+Web+Experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=UI%2FUX+Design;Frontend+Development;Information+Science+Student;Building+Modern+Web+Experiences" />
 
 </div>
 
@@ -115,5 +111,5 @@ I am passionate about creating **modern, responsive, and user-friendly web exper
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00C6FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:2DD4BF&height=120&section=footer"/>
 </div>
