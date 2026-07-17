@@ -71,20 +71,10 @@ I am passionate about creating **modern, responsive, and user-friendly web exper
 <h2 align="center">🐍 GitHub Contribution Snake</h2>
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Tejal-N/Tejal-N/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Tejal-N/Tejal-N/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/Tejal-N/Tejal-N/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/Tejal-N/Tejal-N/output/github-contribution-grid-snake.svg"
+  />
 </p>
 
 </div>
