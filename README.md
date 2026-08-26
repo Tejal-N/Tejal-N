@@ -10,7 +10,10 @@
 
 </div>
 
-I am passionate about creating **modern, responsive, and user-friendly web experiences**. I enjoy combining development and design to build impactful digital products using React.js, Next.js, and modern UI/UX practices.
+I'm Tejal Naresh, an Information Science & Engineering student who enjoys designing interfaces and exploring how people interact with them.
+I'm especially drawn to UI design and frontend development. I like figuring out how something should look, how it should feel, and then bringing it to life with React, Next.js, and Tailwind CSS.
+<br/>
+Most of my projects start with a visual idea and turn into something I can build, experiment with, and improve. I enjoy working through wireframes and prototypes to figure out how an interface should look, feel, and work before bringing it to life. I'm still learning, but that's honestly one of my favourite parts of building things.
 
 ---
 
@@ -96,16 +99,16 @@ I am passionate about creating **modern, responsive, and user-friendly web exper
 
 <div align="center">
 
-<a href="https://github.com/Tejal-N">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://tejal-n.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FFFF"/>
 </a>
 
 <a href="https://linkedin.com/in/s-tejal-naresh">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF"/>
 </a>
 
 <a href="mailto:stejalnaresh@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FFFF"/>
 </a>
 
 </div>
@@ -119,7 +122,6 @@ I am passionate about creating **modern, responsive, and user-friendly web exper
 ⭐ Thoughtful Interfaces. Seamless Experiences. Clean Code.
 
 </div>
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:2DD4BF&height=120&section=footer"/>
