@@ -1,25 +1,27 @@
-name: Generate 3D Contribution Profile
+name: Generate GitHub Contribution Graph
 
 on:
   schedule:
-    - cron: "0 18 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit and push
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "Generate GitHub contribution profile" || exit 0
-          git push
+      - name: Generate contribution graph
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: Tejal-N
+          cards: lifetime
+          output-dir: github-profile
+          themes: dark
+          commit: true
