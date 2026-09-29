@@ -17,16 +17,16 @@ Most of my projects start with a visual idea and turn into something I can build
 
 ---
 
-## 🚀 Tech Stack & Skills
+## ✧ Tech Stack & Skills
 
-### 💻 Programming Languages
+### ☆ Programming Languages
 <p>
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FFFF"/>
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FFFF"/>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FFFF"/>
 </p>
 
-### 🌐 Frontend Development
+### ☆ Frontend Development
 <p>
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FFFF"/>
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FFFF"/>
@@ -35,13 +35,13 @@ Most of my projects start with a visual idea and turn into something I can build
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00FFFF"/>
 </p>
 
-### 🎨 UI/UX & Design
+### ☆ UI/UX & Design
 <p>
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=00FFFF"/>
   <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=00FFFF"/>
 </p>
 
-### ⚙️ Tools & Backend
+### ☆ Tools & Backend
 <p>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FFFF"/>
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFFF"/>
@@ -55,14 +55,14 @@ Most of my projects start with a visual idea and turn into something I can build
 
 ---
 
-## 🌱 Currently Learning
+## ✧ Currently Learning
 - Advanced React & Next.js
 - Exploring modern web technologies
 - Design Systems & Better User Experiences
 
 ---
 
-## 📊 GitHub Stats
+## ✧ GitHub Stats
 
 <div align="center">
 
@@ -72,7 +72,7 @@ Most of my projects start with a visual idea and turn into something I can build
 
 ---
 
-<h2 align="center">🐍 GitHub Contribution Snake</h2>
+<h2 align="center">✧ GitHub Contribution Snake</h2>
 
 <p align="center">
   <img
@@ -85,17 +85,38 @@ Most of my projects start with a visual idea and turn into something I can build
 
 ---
 
-<h2 align="center">📈 GitHub Contribution Graph</h2>
+## ✧ UI / UX
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejal-N&bg_color=0D1117&color=2DD4BF&line=06B6D4&point=FFFFFF&area=true&hide_border=true" />
+<table>
+  <tr>
+    <td width="50%" align="center" bgcolor="#06B6D4">
+      <h3><font color="#0D1117">Think</font></h3>
+      <p><font color="#0D1117">Understanding the problem, exploring ideas, and<br/>figuring out what makes an interface feel right.</font></p>
+    </td>
+    <td width="50%" align="center" bgcolor="#06B6D4">
+      <h3><font color="#0D1117">Design</font></h3>
+      <p><font color="#0D1117">Turning those ideas into simple layouts,<br/>thoughtful interactions, and clean visual experiences.</font></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" bgcolor="#06B6D4">
+      <h3><font color="#0D1117">Build</font></h3>
+      <p><font color="#0D1117">Wireframe → UI → Prototype → Code</font></p>
+    </td>
+    <td width="50%" align="center" bgcolor="#06B6D4">
+      <h3><font color="#0D1117">Details</font></h3>
+      <p><font color="#0D1117">Spacing, typography, interactions, and the small<br/>things that make an interface feel polished.</font></p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-<h2 align="center">📫 Connect With Me</h2>
+<h2>✧ Connect With Me</h2>
 
 <div align="center">
 
@@ -119,7 +140,7 @@ Most of my projects start with a visual idea and turn into something I can build
 
 <div align="center">
 
-⭐ Thoughtful Interfaces. Seamless Experiences. Clean Code.
+✦ Thoughtful Interfaces. Seamless Experiences. Clean Code. ✦
 
 </div>
 
